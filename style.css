@@ -1,0 +1,61 @@
+body{
+flex-direction: colum;
+}
+
+.header{
+border:5px solid black;
+border-radius: 5px;
+}
+
+.left{
+font-size:20px;
+}
+
+.center{
+font-size:20px;
+}
+
+.right{
+font-size:20px;
+}
+
+.footer{
+border:5px solid black;
+border-radius: 5px;
+}
+
+.phienchoi{
+text-align: center;
+font-size:25px;
+}
+
+.box{
+border:10px solid black;
+}
+
+.col{
+width:50%;
+padding: 25px;
+text-align:center;
+display:flex;
+flex-direction: column;
+justify-content: space-between;
+}
+
+label{
+border:5px;
+}
+
+button{
+border:5px;
+}
+
+h1{
+font-size:24px;
+color:black;
+}
+
+h2{
+font-size:24px;
+color:white;
+}
